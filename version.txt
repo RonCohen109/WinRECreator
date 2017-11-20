@@ -1,0 +1,7 @@
+Company Name: Hivrat Telefonim
+File Description: Windows RE Creator
+File Version: 5,0,0,0
+Product Name: Hivrat Telefonim Software
+Internal Name: WinRECreator.exe
+Product Version: 5.0.0.0
+Legal Copyright: Copyright (C) Hivrat Telefonim Software. All rights reserved.
